@@ -20,3 +20,14 @@ while(movie_names < 4):
         if(movie_names == 1):
             print("Only 2 names remaining")
         movie_names += 1         # += this is equivalent to i = i + 1
+
+print('')
+
+# for loop
+fruits = [
+    'apple',
+    'grapes',
+    'pears',
+]
+for indexs in fruits:
+    print(indexs)
